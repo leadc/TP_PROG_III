@@ -1,0 +1,30 @@
+ModificarEmpleado - No se modificó ningún empleado
+UPDATE Empleados SET nombre = 'Leandro', apellido = 'Caceres', 
+                mail = 'leandrodamian@hotmail.com', domicilio = 'oyuela 1212', login = 'lcaceres', 
+                clave = '1234', ruta_foto = '/foto.jpg', perfil = '1'
+                WHERE id_empleado = 29
+{"nombre":"Leandro","apellido":"Caceres","mail":"leandrodamian@hotmail.com","domicilio":"oyuela 1212","login":"lcaceres","clave":"1234","ruta_foto":"\/foto.jpg","perfil":"1","id_empleado":"29"}
+ModificarEmpleado - No se modificó ningún empleado
+UPDATE Empleados SET nombre = 'Leandro', apellido = 'Cacere', 
+                mail = 'leandrodamian@hotmail.com', domicilio = 'oyuela 1212', login = 'lcaceres', 
+                clave = '1234', ruta_foto = '/foto.jpg', perfil = '1'
+                WHERE id_empleado = 29
+{"nombre":"Leandro","apellido":"Cacere","mail":"leandrodamian@hotmail.com","domicilio":"oyuela 1212","login":"lcaceres","clave":"1234","ruta_foto":"\/foto.jpg","perfil":"1","id_empleado":"29"}
+ModificarEmpleado - No se modificó ningún empleado
+UPDATE Empleados SET nombre = 'Leandro', apellido = 'Cacere', 
+                mail = 'leandrodamian@hotmail.com', domicilio = 'oyuela 1212', login = 'lcaceres', 
+                clave = '1234', ruta_foto = '/foto.jpg', perfil = '1'
+                WHERE id_empleado = 29
+{"nombre":"Leandro","apellido":"Cacere","mail":"leandrodamian@hotmail.com","domicilio":"oyuela 1212","login":"lcaceres","clave":"1234","ruta_foto":"\/foto.jpg","perfil":"1","id_empleado":"29"}
+ModificarEmpleado - No se modificó ningún empleado
+UPDATE Empleados SET nombre = 'Leandro', apellido = 'Cacere', 
+                mail = 'leandrodamian@hotmail.com', domicilio = 'oyuela 1212', login = 'lcaceres', 
+                clave = '1234', ruta_foto = '/foto.jpg', perfil = '1'
+                WHERE id_empleado = 29
+{"nombre":"Leandro","apellido":"Cacere","mail":"leandrodamian@hotmail.com","domicilio":"oyuela 1212","login":"lcaceres","clave":"1234","ruta_foto":"\/foto.jpg","perfil":"1","id_empleado":"29"}
+ModificarEmpleado - No se modificó ningún empleado
+UPDATE Empleados SET nombre = 'Leandro', apellido = 'Caceres', 
+                mail = 'leandrodamian@hotmail.com', domicilio = 'oyuela 1212', login = 'lcaceres', 
+                clave = '1234', ruta_foto = '/foto.jpg', perfil = '1',
+                activo = 'N' WHERE id_empleado = 32
+{"nombre":"Leandro","apellido":"Caceres","mail":"leandrodamian@hotmail.com","domicilio":"oyuela 1212","login":"lcaceres","clave":"1234","ruta_foto":"\/foto.jpg","perfil":"1","id_empleado":"32","activo":"N"}
